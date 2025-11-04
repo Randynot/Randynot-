@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agyemang Randy Prempeh</h1>
-<h3 align="center">A Junior Software Developer With a lot of focus on mobile technologies</h3>
+<h3 align="center">tA Junior Software Developer With a lot of focus on mobile app technologies</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
