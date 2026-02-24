@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agyemang Randy Prempeh</h1>
-<h3 align="center">I am Junior Software Developer With a lot of focus on mobile app technologies</h3>
+<h3 align="center">I am Junior Mobile App  Developer With a lot of focus on mobile app technologies</h3>
 
 - 📫 How to reach me **prempehagyemang62@gmail.com**
 
