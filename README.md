@@ -4,6 +4,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Randy+Agyemang+%F0%9F%91%8B;Building+scalable+mobile+apps+with+Flutter;Designing+clean%2C+production-ready+systems;Learning+NestJS+%2B+PostgreSQL+%2B+MySQL" alt="Typing SVG" />
 
+<br/><br/>
+
+<table align="center">
+<tr>
+<td align="center">
+
+*"These days I don't sleep no more,*
+*So my eyes open wide*
+*At least I know I'm alive."*
+
+**— Burna Boy**
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 <a href="mailto:prempehagyemang62@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
