@@ -211,7 +211,7 @@ Have an idea or want to build something together? Reach out 👇
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Randynot&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak Stats" width="480" />
+<img src="https://streak-stats.demolab.com?user=Randynot&theme=radical&hide_border=true&border_radius=12&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&card_width=500" alt="GitHub Streak Stats" width="500" />
 
 </div>
 
