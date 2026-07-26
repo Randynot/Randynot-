@@ -206,37 +206,6 @@ Have an idea or want to build something together? Reach out 👇
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Randynot">
-  <img src="https://github-readme-stats.vercel.app/api?username=Randynot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Randy's GitHub Stats" width="48%" />
-</a>
-<a href="https://github.com/Randynot?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randynot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Randynot?tab=achievements">
-  <img src="https://github-profile-trophy.vercel.app/?username=Randynot&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="90%" />
-</a>
-
-<br/><br/>
-
-<b>🐍 Contribution Snake</b>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Randynot/Randynot/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%" />
-
-<sub>Requires the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action set up in this profile repository. Note: the source repo must be named exactly <code>Randynot</code> (no trailing dash) for the profile README and snake workflow to work correctly.</sub>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ## 🔥 GitHub Contribution Streak
