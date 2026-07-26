@@ -51,6 +51,7 @@ I'm a **Software Developer** specializing in **Mobile Application Development** 
 - 🧩 &nbsp; I enjoy solving **complex engineering problems** — that's where the real learning happens
 - 📈 &nbsp; I'm constantly sharpening my **engineering skills**, one project at a time
 - 🔬 &nbsp; I like understanding how software actually works **beneath the surface**
+- ❤️ &nbsp; I have a strong love for **object-oriented frameworks and languages**, and how they help model real-world systems cleanly
 
 > 💡 I'm currently learning **NestJS** and **Serverpod** while deepening my knowledge of **PostgreSQL** and **MySQL**.
 
@@ -102,6 +103,22 @@ I'm a **Software Developer** specializing in **Mobile Application Development** 
 
 <br/>
 
+## 🌐 Future Learning — Web Development
+
+<div align="center">
+<sub>Next on my roadmap: expanding into web development 👇</sub>
+</div>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -136,6 +153,12 @@ I'm a **Software Developer** specializing in **Mobile Application Development** 
 <img src="https://skillicons.dev/icons?i=nestjs,postgres,mysql&theme=dark" />
 <img src="https://github.com/serverpod.png" width="48" height="48" style="border-radius:8px;vertical-align:middle;" alt="Serverpod logo" />
 
+<br/><br/>
+
+#### Future Learning — Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,angular&theme=dark" />
+
 </div>
 
 <br/>
@@ -158,6 +181,9 @@ I'm a **Software Developer** specializing in **Mobile Application Development** 
 <td align="center" width="200">💉<br/><b>Dependency Injection</b><br/><sub>Loose coupling, testable code</sub></td>
 <td align="center" width="200">🌀<br/><b>BLoC State Management</b><br/><sub>Predictable, reactive state</sub></td>
 <td align="center" width="200">📐<br/><b>System Design</b><br/><sub>Designing for scale & reliability</sub></td>
+</tr>
+<tr>
+<td align="center" width="200" colspan="3">🧬<br/><b>Object-Oriented Programming</b><br/><sub>My favorite paradigm — modeling systems through classes, encapsulation, and polymorphism</sub></td>
 </tr>
 </table>
 </div>
@@ -252,6 +278,7 @@ Have an idea or want to build something together? Reach out 👇
 - 🏗️ &nbsp; I enjoy building **scalable systems**
 - 🎯 &nbsp; I believe **consistency beats motivation**
 - 📚 &nbsp; Every project teaches something new
+- 🧬 &nbsp; I'm a firm believer in the power of **object-oriented design**
 
 <br/>
 
